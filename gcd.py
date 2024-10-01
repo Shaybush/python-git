@@ -7,4 +7,4 @@ def gcd(a, b):
       max_gcd = current_num
   return max_gcd
 
-print(f"gcd - {gcd(6,12)}")
+# print(f"gcd - {gcd(6,12)}")
